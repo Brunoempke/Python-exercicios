@@ -1,0 +1,5 @@
+nome=input('digite seu nome')
+ano=input('digite ano que nasceu')
+mes=input('digite mes que nasceu')
+dia=input('dia que nasceu')
+print('ola, {} nasceu no ano de {} do mes {} no dia {}'.format(nome,ano,mes,dia))

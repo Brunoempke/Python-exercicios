@@ -1,0 +1,6 @@
+n=int(input('digite um numero'))
+print('{}x{} é {}'.format(n,2,n*2))
+print('{}x{} é {}'.format(n,3,n*3))
+print('{}x{} é {}'.format(n,4,n*4))
+print('{}x{} é {}'.format(n,5,n*5))
+print('{}x{} é {}'.format(n,6,n*6))
